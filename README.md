@@ -1,2 +1,2 @@
 # cvip_datascience_projects
-Python Project on Terror Dataset using pandas, matplotlib and Seaborn
+Repository for projects performed as part of Data Science Internship offerred by Coders Cave.
